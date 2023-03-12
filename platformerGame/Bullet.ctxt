@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=x\ y\ id\ handler\ velX\ velY
+comment1.target=Bullet(float,\ float,\ ID,\ Handler,\ float,\ float)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=g
+comment3.target=void\ render(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ collision()
+comment5.params=
+comment5.target=java.awt.Rectangle\ getBounds()
+numComments=6
